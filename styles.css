@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: #babdbe;
 }
 a:hover {
   color: #6633ff;
@@ -107,6 +107,9 @@ header .profile-image:hover {
 .card h2 {
   color: #003fa5;
 }
+.card a {
+  color: #5069d6;
+}
 
 ul.skills {
   padding: 0;
@@ -150,10 +153,6 @@ footer ul {
 
 footer ul li {
   display: inline-block;
-}
-
-.social-github {
-  filter: invert(18%) sepia(87%) saturate(2062%) hue-rotate(206deg) brightness(95%) contrast(110%);
 }
 
 a.social {
