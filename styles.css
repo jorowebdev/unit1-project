@@ -126,6 +126,11 @@ ul.skills {
   background: #003fa5;
 }
 
+ul.experience {
+  padding: 0;
+  list-style-type: none;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
