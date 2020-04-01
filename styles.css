@@ -104,6 +104,9 @@ header .profile-image:hover {
   width: 100%;
   padding-top: 5%;
 }
+.card h2 {
+  color: #003fa5;
+}
 
 ul.skills {
   padding: 0;
